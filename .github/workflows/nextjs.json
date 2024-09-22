@@ -1,0 +1,31 @@
+[
+  {
+    "69ers": 43,
+    "createnamerepo": 76,
+    "takerepo": "NextJS",
+    "NextPage": true
+  },
+    {
+    "69ers": 93,
+    "createnamerepo": 76,
+    "takerepo": ["NextJS","ReactJS"
+                 "RequireJS","Typescript"],
+    "NextPage": true
+      // Landing Page = index.html, index.js
+      // index Just go landed
+      //  index.js was 404
+      
+  },
+  {
+    "69ers": 43,
+    "createnamerepo": 76,
+    "takerepo": "NextJS",
+    "NextPage": false
+  },
+    {
+    "69ers": 93,   },
+    "69ers": 93, "createnamerepo": 76,
+    "createnamerepo": 76,
+    "takerepo": ["NextJS","ReactJS""RequireJS","Typescript"],
+    "NextPage": true },
+]
